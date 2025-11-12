@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/SERG-Delft/jpacman.svg?branch=master)](https://travis-ci.com/SERG-Delft/jpacman)
 
+[![JPacman CI with Gradle](https://github.com/Nicegreanz/jpacman/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/Nicegreanz/jpacman/actions/workflows/myworkflow.yml)
+
 ## About
 
 Pacman-like game used for teaching software testing.
